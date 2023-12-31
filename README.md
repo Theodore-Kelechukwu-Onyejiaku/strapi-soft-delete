@@ -2,7 +2,7 @@
 Custom soft delete implementation with Strapi and Nextjs with cron job.
 
 ## Demo 
-Create an Article
+### Create an Article
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTh2bDY4bHdnNTU1OHN2dWlrM2pkc2w1aGM1NTFzcGVwajd2M3I4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VdMFNrpk9q8IGSCXmI/giphy.gif)
 
 
